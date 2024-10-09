@@ -9,7 +9,7 @@ MSc: Pervasive and Mobile Computing Systems (EAP 2023 - )
 </pre>
 
 <pre>
-I'm currently working as electronic techicial at telecomunications 
+I'm currently working as electronic techicial in telecomunications 
 (smartphones, tablets, laptops etc and automation systems)
 </pre>
 
@@ -27,3 +27,7 @@ I'm currently working as electronic techicial at telecomunications
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Pagiatis-Spiros" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@spiroscfu/videos" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Pagiatis-Spiros"><img src="https://github-readme-stats.vercel.app/api?username=Pagiatis-Spiros&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Pagiatis-Spiros's GitHub stats" /></a>
