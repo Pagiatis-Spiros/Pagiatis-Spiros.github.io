@@ -1,6 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pagiatis Spiros
 =======================================================================================================================================
 
+* My studies are
 <pre>
 Vocational High School: Αutomation electronics 
 IEK: Visual and audio systems electronics 
@@ -8,9 +9,10 @@ BSc: Computer Science (EAP)
 MSc: Pervasive and Mobile Computing Systems (EAP 2023 - ) 
 </pre>
 
+* I'm currently working as 
 <pre>
-I'm currently working as electronic techicial in telecomunications 
-(smartphones, tablets, laptops etc and automation systems)
+techicial in telecomunications (smartphones, tablets, laptops etc) 
+and automation systems
 </pre>
 
 * 🌍  I'm based in Greece
