@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pagiatis Spiros
 =======================================================================================================================================
 <p></p>
-<img src="https://avatars.githubusercontent.com/u/183642810?v=4" width="150" />
+<img src="https://avatars.githubusercontent.com/u/183642810?v=4" width="100" />
 
 * My studies are
 <pre>
