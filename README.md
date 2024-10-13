@@ -17,10 +17,9 @@ technical in telecomunications (smartphones, tablets, laptops etc)
 and automation systems
 </pre>
 
-* 🌍  I'm based in Greece
+* 🌍  I'm based in Greece, Corfu
 * 🖥️  See my portfolio at [Electronics assistant](http://digilabcfu.weebly.com/betaomicronetathetaetamualphataualpha.html)
 * ✉️  You can contact me at [digilabCfu@gmail.com](mailto:digilabCfu@gmail.com)
-* 🧠  I'm learning in Corfu
 
 ### Skills
 
