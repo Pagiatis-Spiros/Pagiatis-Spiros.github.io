@@ -13,8 +13,7 @@ MSc: Pervasive and Mobile Computing Systems (EAP 2023 - )
 
 * I'm currently working as 
 <pre>
-technical in telecomunications (smartphones, tablets, laptops etc) 
-and automation systems
+technical in telecomunications and automation systems
 </pre>
 
 * 🌍  I'm based in Greece, Corfu
@@ -35,4 +34,5 @@ and automation systems
 
 <a href="http://www.github.com/Pagiatis-Spiros"><img src="https://github-readme-stats.vercel.app/api?username=Pagiatis-Spiros&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Pagiatis-Spiros's GitHub stats" /></a>
 
+***
 ## [Back to homepage](https://sdy60-2024.github.io/webring/)
